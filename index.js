@@ -1,1 +1,1 @@
-export default "sub-package"
+module.export = "sub-package"
