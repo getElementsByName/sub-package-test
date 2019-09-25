@@ -1,1 +1,1 @@
-module.export = "sub-package"
+module.exports = "sub-package"
