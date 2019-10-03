@@ -1,0 +1,1 @@
+module.exports = "sub-package/src/index.js"
